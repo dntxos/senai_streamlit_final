@@ -35,7 +35,7 @@ if df.empty:
 # =====================================================================
 # 4. CONSTRUINDO O VISUAL DO SITE E OS GRÁFICOS
 # =====================================================================
-st.image("logo.jpg", width=500)
+st.image("logo.png", width=600)
 st.title("🏭 Centro de Controle de Produção Avançado - IA Transformers")
 st.markdown("Monitoramento detalhado por **Setor** e **Operador**.")
 st.divider() 
